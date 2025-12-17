@@ -1,8 +1,3 @@
-# excel-dashboard-project
-Excel project for data analysis and dashboard creation
-
-# Excel Project - Data Analysis & Dashboard
-
 ## Project Overview
 This project demonstrates my skills in MS Excel for data cleaning, analysis and visualization.
 ## 📸 Dashboard Preview
