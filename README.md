@@ -5,7 +5,8 @@ Excel project for data analysis and dashboard creation
 
 ## Project Overview
 This project demonstrates my skills in MS Excel for data cleaning, analysis and visualization.
-
+## 📸 Dashboard Preview
+<img width="1091" height="617" alt="image" src="https://github.com/user-attachments/assets/b45304a2-8a57-4e27-bb00-c8785b8bc21a" />
 ## Tools Used
 - MS Excel
 - Pivot Table
@@ -17,10 +18,6 @@ This project demonstrates my skills in MS Excel for data cleaning, analysis and 
  - Interactive Dashboard
  - KPI Calculations
  - Visual insights using charts
-## 📸 Dashboard Preview
-![Dashboard]
-<img width="1091" height="617" alt="image" src="https://github.com/user-attachments/assets/b45304a2-8a57-4e27-bb00-c8785b8bc21a" />
-
 
 ## Files Included
 - Excel_Project.zip - contains all Excel files and resources
